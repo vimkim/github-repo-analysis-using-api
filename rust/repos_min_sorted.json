@@ -1,0 +1,2504 @@
+{
+  "items": [
+    {
+      "full_name": "ekzhang/bore",
+      "size": 50,
+      "stargazers_count": 8359
+    },
+    {
+      "full_name": "mgdm/htmlq",
+      "size": 59,
+      "stargazers_count": 7037
+    },
+    {
+      "full_name": "TaKO8Ki/awesome-alternatives-in-rust",
+      "size": 105,
+      "stargazers_count": 3679
+    },
+    {
+      "full_name": "ynqa/jnv",
+      "size": 146,
+      "stargazers_count": 4735
+    },
+    {
+      "full_name": "johnthagen/min-sized-rust",
+      "size": 157,
+      "stargazers_count": 7898
+    },
+    {
+      "full_name": "EbTech/rust-algorithms",
+      "size": 180,
+      "stargazers_count": 3730
+    },
+    {
+      "full_name": "oppiliappan/dijo",
+      "size": 217,
+      "stargazers_count": 2804
+    },
+    {
+      "full_name": "tokio-rs/mini-redis",
+      "size": 244,
+      "stargazers_count": 3782
+    },
+    {
+      "full_name": "haimgel/display-switch",
+      "size": 255,
+      "stargazers_count": 2840
+    },
+    {
+      "full_name": "tummychow/git-absorb",
+      "size": 258,
+      "stargazers_count": 3346
+    },
+    {
+      "full_name": "tkellogg/dura",
+      "size": 281,
+      "stargazers_count": 4264
+    },
+    {
+      "full_name": "fathyb/carbonyl",
+      "size": 283,
+      "stargazers_count": 14328
+    },
+    {
+      "full_name": "ekzhang/rustpad",
+      "size": 298,
+      "stargazers_count": 3144
+    },
+    {
+      "full_name": "sharkdp/hexyl",
+      "size": 405,
+      "stargazers_count": 8993
+    },
+    {
+      "full_name": "chmln/sd",
+      "size": 411,
+      "stargazers_count": 5663
+    },
+    {
+      "full_name": "flosse/rust-web-framework-comparison",
+      "size": 415,
+      "stargazers_count": 4949
+    },
+    {
+      "full_name": "sirupsen/napkin-math",
+      "size": 423,
+      "stargazers_count": 3416
+    },
+    {
+      "full_name": "anordal/shellharden",
+      "size": 464,
+      "stargazers_count": 4599
+    },
+    {
+      "full_name": "mainmatter/100-exercises-to-learn-rust",
+      "size": 502,
+      "stargazers_count": 3436
+    },
+    {
+      "full_name": "nrc/r4cppp",
+      "size": 512,
+      "stargazers_count": 3598
+    },
+    {
+      "full_name": "dtolnay/proc-macro-workshop",
+      "size": 525,
+      "stargazers_count": 4047
+    },
+    {
+      "full_name": "BurntSushi/xsv",
+      "size": 567,
+      "stargazers_count": 10259
+    },
+    {
+      "full_name": "xacrimon/dashmap",
+      "size": 622,
+      "stargazers_count": 2918
+    },
+    {
+      "full_name": "sigoden/dufs",
+      "size": 657,
+      "stargazers_count": 5734
+    },
+    {
+      "full_name": "rapiz1/rathole",
+      "size": 662,
+      "stargazers_count": 9190
+    },
+    {
+      "full_name": "bootandy/dust",
+      "size": 682,
+      "stargazers_count": 8277
+    },
+    {
+      "full_name": "dtolnay/thiserror",
+      "size": 734,
+      "stargazers_count": 4281
+    },
+    {
+      "full_name": "ImageOptim/gifski",
+      "size": 741,
+      "stargazers_count": 4677
+    },
+    {
+      "full_name": "tonarino/innernet",
+      "size": 754,
+      "stargazers_count": 4920
+    },
+    {
+      "full_name": "amber-lang/amber",
+      "size": 799,
+      "stargazers_count": 3745
+    },
+    {
+      "full_name": "ogham/dog",
+      "size": 885,
+      "stargazers_count": 6040
+    },
+    {
+      "full_name": "redox-os/tfs",
+      "size": 885,
+      "stargazers_count": 2942
+    },
+    {
+      "full_name": "seanmonstar/warp",
+      "size": 927,
+      "stargazers_count": 9429
+    },
+    {
+      "full_name": "flamegraph-rs/flamegraph",
+      "size": 961,
+      "stargazers_count": 4567
+    },
+    {
+      "full_name": "GRVYDEV/Project-Lightspeed",
+      "size": 969,
+      "stargazers_count": 3619
+    },
+    {
+      "full_name": "cloudflare/boringtun",
+      "size": 991,
+      "stargazers_count": 5983
+    },
+    {
+      "full_name": "smol-rs/smol",
+      "size": 996,
+      "stargazers_count": 3563
+    },
+    {
+      "full_name": "dtolnay/anyhow",
+      "size": 1016,
+      "stargazers_count": 5307
+    },
+    {
+      "full_name": "Speykious/cve-rs",
+      "size": 1016,
+      "stargazers_count": 3843
+    },
+    {
+      "full_name": "borgo-lang/borgo",
+      "size": 1021,
+      "stargazers_count": 3640
+    },
+    {
+      "full_name": "LukeMathWalker/zero-to-production",
+      "size": 1034,
+      "stargazers_count": 5569
+    },
+    {
+      "full_name": "iron/iron",
+      "size": 1046,
+      "stargazers_count": 6130
+    },
+    {
+      "full_name": "TheAlgorithms/Rust",
+      "size": 1051,
+      "stargazers_count": 21911
+    },
+    {
+      "full_name": "ekzhang/sshx",
+      "size": 1076,
+      "stargazers_count": 5695
+    },
+    {
+      "full_name": "jhspetersson/fselect",
+      "size": 1077,
+      "stargazers_count": 3952
+    },
+    {
+      "full_name": "koute/stdweb",
+      "size": 1142,
+      "stargazers_count": 3443
+    },
+    {
+      "full_name": "roapi/roapi",
+      "size": 1190,
+      "stargazers_count": 3168
+    },
+    {
+      "full_name": "flaneur2020/pua-lang",
+      "size": 1230,
+      "stargazers_count": 3281
+    },
+    {
+      "full_name": "denisidoro/navi",
+      "size": 1256,
+      "stargazers_count": 14737
+    },
+    {
+      "full_name": "evcxr/evcxr",
+      "size": 1332,
+      "stargazers_count": 5431
+    },
+    {
+      "full_name": "postgresml/pgcat",
+      "size": 1416,
+      "stargazers_count": 2762
+    },
+    {
+      "full_name": "google/tarpc",
+      "size": 1425,
+      "stargazers_count": 3135
+    },
+    {
+      "full_name": "curlpipe/ox",
+      "size": 1457,
+      "stargazers_count": 3281
+    },
+    {
+      "full_name": "lotabout/skim",
+      "size": 1470,
+      "stargazers_count": 5015
+    },
+    {
+      "full_name": "http-rs/tide",
+      "size": 1529,
+      "stargazers_count": 5019
+    },
+    {
+      "full_name": "rustdesk/rustdesk-server",
+      "size": 1651,
+      "stargazers_count": 6235
+    },
+    {
+      "full_name": "pemistahl/grex",
+      "size": 1658,
+      "stargazers_count": 7088
+    },
+    {
+      "full_name": "lsd-rs/lsd",
+      "size": 1659,
+      "stargazers_count": 12998
+    },
+    {
+      "full_name": "sharkdp/hyperfine",
+      "size": 1674,
+      "stargazers_count": 21265
+    },
+    {
+      "full_name": "Byron/dua-cli",
+      "size": 1687,
+      "stargazers_count": 3836
+    },
+    {
+      "full_name": "toshi-search/Toshi",
+      "size": 1690,
+      "stargazers_count": 4175
+    },
+    {
+      "full_name": "cberner/redb",
+      "size": 1712,
+      "stargazers_count": 3127
+    },
+    {
+      "full_name": "CloudCannon/pagefind",
+      "size": 1748,
+      "stargazers_count": 3320
+    },
+    {
+      "full_name": "sharkdp/fd",
+      "size": 1825,
+      "stargazers_count": 33069
+    },
+    {
+      "full_name": "rcoh/angle-grinder",
+      "size": 1841,
+      "stargazers_count": 3463
+    },
+    {
+      "full_name": "libreddit/libreddit",
+      "size": 1856,
+      "stargazers_count": 5012
+    },
+    {
+      "full_name": "vi/websocat",
+      "size": 1881,
+      "stargazers_count": 6861
+    },
+    {
+      "full_name": "Keats/tera",
+      "size": 2012,
+      "stargazers_count": 3402
+    },
+    {
+      "full_name": "versotile-org/verso",
+      "size": 2025,
+      "stargazers_count": 3840
+    },
+    {
+      "full_name": "console-rs/indicatif",
+      "size": 2069,
+      "stargazers_count": 4288
+    },
+    {
+      "full_name": "ralfbiedert/cheats.rs",
+      "size": 2089,
+      "stargazers_count": 4053
+    },
+    {
+      "full_name": "maciejhirsz/logos",
+      "size": 2134,
+      "stargazers_count": 2788
+    },
+    {
+      "full_name": "skerkour/black-hat-rust",
+      "size": 2167,
+      "stargazers_count": 3146
+    },
+    {
+      "full_name": "rusterlium/rustler",
+      "size": 2169,
+      "stargazers_count": 4276
+    },
+    {
+      "full_name": "PaulJuliusMartinez/jless",
+      "size": 2170,
+      "stargazers_count": 4663
+    },
+    {
+      "full_name": "jmacdonald/amp",
+      "size": 2170,
+      "stargazers_count": 3669
+    },
+    {
+      "full_name": "seanmonstar/reqwest",
+      "size": 2231,
+      "stargazers_count": 9576
+    },
+    {
+      "full_name": "async-rs/async-std",
+      "size": 2239,
+      "stargazers_count": 3902
+    },
+    {
+      "full_name": "DataDog/glommio",
+      "size": 2308,
+      "stargazers_count": 2983
+    },
+    {
+      "full_name": "pest-parser/pest",
+      "size": 2347,
+      "stargazers_count": 4547
+    },
+    {
+      "full_name": "linebender/xilem",
+      "size": 2375,
+      "stargazers_count": 3374
+    },
+    {
+      "full_name": "YaLTeR/niri",
+      "size": 2378,
+      "stargazers_count": 3110
+    },
+    {
+      "full_name": "Rigellute/spotify-tui",
+      "size": 2403,
+      "stargazers_count": 17175
+    },
+    {
+      "full_name": "microsoft/sudo",
+      "size": 2442,
+      "stargazers_count": 4932
+    },
+    {
+      "full_name": "ajeetdsouza/zoxide",
+      "size": 2464,
+      "stargazers_count": 21220
+    },
+    {
+      "full_name": "ducaale/xh",
+      "size": 2512,
+      "stargazers_count": 5374
+    },
+    {
+      "full_name": "valeriansaliou/sonic",
+      "size": 2600,
+      "stargazers_count": 19738
+    },
+    {
+      "full_name": "nuta/kerla",
+      "size": 2619,
+      "stargazers_count": 3324
+    },
+    {
+      "full_name": "dbrgn/tealdeer",
+      "size": 2630,
+      "stargazers_count": 4052
+    },
+    {
+      "full_name": "sunface/rust-by-practice",
+      "size": 2635,
+      "stargazers_count": 11859
+    },
+    {
+      "full_name": "johnlui/PPHC",
+      "size": 2638,
+      "stargazers_count": 3704
+    },
+    {
+      "full_name": "soywod/himalaya",
+      "size": 2638,
+      "stargazers_count": 3024
+    },
+    {
+      "full_name": "WebAssembly/WASI",
+      "size": 2666,
+      "stargazers_count": 4793
+    },
+    {
+      "full_name": "reacherhq/check-if-email-exists",
+      "size": 2710,
+      "stargazers_count": 4256
+    },
+    {
+      "full_name": "tikv/raft-rs",
+      "size": 2810,
+      "stargazers_count": 2883
+    },
+    {
+      "full_name": "XAMPPRocky/tokei",
+      "size": 2829,
+      "stargazers_count": 10770
+    },
+    {
+      "full_name": "serde-rs/json",
+      "size": 2838,
+      "stargazers_count": 4770
+    },
+    {
+      "full_name": "aome510/spotify-player",
+      "size": 2863,
+      "stargazers_count": 3305
+    },
+    {
+      "full_name": "sycamore-rs/sycamore",
+      "size": 2869,
+      "stargazers_count": 2755
+    },
+    {
+      "full_name": "rust-unofficial/too-many-lists",
+      "size": 2890,
+      "stargazers_count": 3132
+    },
+    {
+      "full_name": "benfred/py-spy",
+      "size": 2907,
+      "stargazers_count": 12332
+    },
+    {
+      "full_name": "asciinema/asciinema",
+      "size": 2952,
+      "stargazers_count": 13812
+    },
+    {
+      "full_name": "warp-tech/warpgate",
+      "size": 2976,
+      "stargazers_count": 3695
+    },
+    {
+      "full_name": "weld-project/weld",
+      "size": 3015,
+      "stargazers_count": 2990
+    },
+    {
+      "full_name": "Nukesor/pueue",
+      "size": 3020,
+      "stargazers_count": 4774
+    },
+    {
+      "full_name": "tower-rs/tower",
+      "size": 3084,
+      "stargazers_count": 3410
+    },
+    {
+      "full_name": "r-darwish/topgrade",
+      "size": 3084,
+      "stargazers_count": 3359
+    },
+    {
+      "full_name": "astral-sh/rye",
+      "size": 3127,
+      "stargazers_count": 13160
+    },
+    {
+      "full_name": "trifectatechfoundation/sudo-rs",
+      "size": 3156,
+      "stargazers_count": 2868
+    },
+    {
+      "full_name": "sxyazi/yazi",
+      "size": 3206,
+      "stargazers_count": 13777
+    },
+    {
+      "full_name": "vosen/ZLUDA",
+      "size": 3226,
+      "stargazers_count": 8800
+    },
+    {
+      "full_name": "watchexec/watchexec",
+      "size": 3236,
+      "stargazers_count": 5149
+    },
+    {
+      "full_name": "hrkfdn/ncspot",
+      "size": 3254,
+      "stargazers_count": 4878
+    },
+    {
+      "full_name": "Spotifyd/spotifyd",
+      "size": 3265,
+      "stargazers_count": 9749
+    },
+    {
+      "full_name": "cross-rs/cross",
+      "size": 3272,
+      "stargazers_count": 6401
+    },
+    {
+      "full_name": "redis-rs/redis-rs",
+      "size": 3276,
+      "stargazers_count": 3544
+    },
+    {
+      "full_name": "smoltcp-rs/smoltcp",
+      "size": 3300,
+      "stargazers_count": 3700
+    },
+    {
+      "full_name": "lldap/lldap",
+      "size": 3354,
+      "stargazers_count": 4127
+    },
+    {
+      "full_name": "cloudflare/pingora",
+      "size": 3361,
+      "stargazers_count": 20781
+    },
+    {
+      "full_name": "tokio-rs/mio",
+      "size": 3376,
+      "stargazers_count": 6236
+    },
+    {
+      "full_name": "rayon-rs/rayon",
+      "size": 3406,
+      "stargazers_count": 10694
+    },
+    {
+      "full_name": "gyscos/cursive",
+      "size": 3424,
+      "stargazers_count": 4217
+    },
+    {
+      "full_name": "denoland/rusty_v8",
+      "size": 3465,
+      "stargazers_count": 3113
+    },
+    {
+      "full_name": "svenstaro/miniserve",
+      "size": 3528,
+      "stargazers_count": 5871
+    },
+    {
+      "full_name": "sigoden/aichat",
+      "size": 3529,
+      "stargazers_count": 3594
+    },
+    {
+      "full_name": "trunk-rs/trunk",
+      "size": 3571,
+      "stargazers_count": 3400
+    },
+    {
+      "full_name": "cloudhead/rx",
+      "size": 3684,
+      "stargazers_count": 3088
+    },
+    {
+      "full_name": "ivanceras/svgbob",
+      "size": 3695,
+      "stargazers_count": 3810
+    },
+    {
+      "full_name": "dalance/procs",
+      "size": 3698,
+      "stargazers_count": 4987
+    },
+    {
+      "full_name": "atom-archive/xray",
+      "size": 3718,
+      "stargazers_count": 8484
+    },
+    {
+      "full_name": "djc/askama",
+      "size": 3739,
+      "stargazers_count": 3302
+    },
+    {
+      "full_name": "ogham/exa",
+      "size": 3741,
+      "stargazers_count": 23480
+    },
+    {
+      "full_name": "qarmin/czkawka",
+      "size": 3824,
+      "stargazers_count": 18904
+    },
+    {
+      "full_name": "zesterer/chumsky",
+      "size": 3828,
+      "stargazers_count": 3493
+    },
+    {
+      "full_name": "trifectatechfoundation/teach-rs",
+      "size": 3837,
+      "stargazers_count": 2943
+    },
+    {
+      "full_name": "actix/examples",
+      "size": 3842,
+      "stargazers_count": 3634
+    },
+    {
+      "full_name": "rust-lang/rustlings",
+      "size": 3867,
+      "stargazers_count": 52093
+    },
+    {
+      "full_name": "fdehau/tui-rs",
+      "size": 3869,
+      "stargazers_count": 10831
+    },
+    {
+      "full_name": "yoav-lavi/melody",
+      "size": 3910,
+      "stargazers_count": 4619
+    },
+    {
+      "full_name": "messense/aliyundrive-webdav",
+      "size": 3922,
+      "stargazers_count": 9587
+    },
+    {
+      "full_name": "crossbeam-rs/crossbeam",
+      "size": 3934,
+      "stargazers_count": 7219
+    },
+    {
+      "full_name": "autumnai/leaf",
+      "size": 3938,
+      "stargazers_count": 5557
+    },
+    {
+      "full_name": "rustwasm/wasm-pack",
+      "size": 4012,
+      "stargazers_count": 6147
+    },
+    {
+      "full_name": "Schniz/fnm",
+      "size": 4079,
+      "stargazers_count": 17116
+    },
+    {
+      "full_name": "tokio-rs/axum",
+      "size": 4081,
+      "stargazers_count": 17900
+    },
+    {
+      "full_name": "lunatic-solutions/lunatic",
+      "size": 4089,
+      "stargazers_count": 4593
+    },
+    {
+      "full_name": "Y2Z/monolith",
+      "size": 4098,
+      "stargazers_count": 10790
+    },
+    {
+      "full_name": "bastion-rs/bastion",
+      "size": 4098,
+      "stargazers_count": 2780
+    },
+    {
+      "full_name": "pingcap/talent-plan",
+      "size": 4110,
+      "stargazers_count": 10017
+    },
+    {
+      "full_name": "ron-rs/ron",
+      "size": 4192,
+      "stargazers_count": 3261
+    },
+    {
+      "full_name": "kube-rs/kube",
+      "size": 4243,
+      "stargazers_count": 2833
+    },
+    {
+      "full_name": "elkowar/eww",
+      "size": 4269,
+      "stargazers_count": 8985
+    },
+    {
+      "full_name": "mre/idiomatic-rust",
+      "size": 4283,
+      "stargazers_count": 6296
+    },
+    {
+      "full_name": "dimforge/rapier",
+      "size": 4418,
+      "stargazers_count": 3861
+    },
+    {
+      "full_name": "PistonDevelopers/piston",
+      "size": 4471,
+      "stargazers_count": 4600
+    },
+    {
+      "full_name": "erikgrinaker/toydb",
+      "size": 4491,
+      "stargazers_count": 6038
+    },
+    {
+      "full_name": "rust-ml/linfa",
+      "size": 4515,
+      "stargazers_count": 3628
+    },
+    {
+      "full_name": "chronotope/chrono",
+      "size": 4690,
+      "stargazers_count": 3248
+    },
+    {
+      "full_name": "librespot-org/librespot",
+      "size": 4734,
+      "stargazers_count": 4552
+    },
+    {
+      "full_name": "jpochyla/psst",
+      "size": 4791,
+      "stargazers_count": 8355
+    },
+    {
+      "full_name": "arxanas/git-branchless",
+      "size": 4822,
+      "stargazers_count": 3399
+    },
+    {
+      "full_name": "BurntSushi/ripgrep",
+      "size": 4843,
+      "stargazers_count": 47055
+    },
+    {
+      "full_name": "supabase-community/postgres_lsp",
+      "size": 4986,
+      "stargazers_count": 3203
+    },
+    {
+      "full_name": "sfackler/rust-postgres",
+      "size": 5039,
+      "stargazers_count": 3420
+    },
+    {
+      "full_name": "lencx/nofwl",
+      "size": 5081,
+      "stargazers_count": 4247
+    },
+    {
+      "full_name": "LGUG2Z/komorebi",
+      "size": 5258,
+      "stargazers_count": 8462
+    },
+    {
+      "full_name": "godot-rust/gdext",
+      "size": 5266,
+      "stargazers_count": 2892
+    },
+    {
+      "full_name": "bytedance/monoio",
+      "size": 5292,
+      "stargazers_count": 3821
+    },
+    {
+      "full_name": "pretzelhammer/rust-blog",
+      "size": 5340,
+      "stargazers_count": 7005
+    },
+    {
+      "full_name": "bheisler/criterion.rs",
+      "size": 5365,
+      "stargazers_count": 4370
+    },
+    {
+      "full_name": "imsnif/bandwhich",
+      "size": 5418,
+      "stargazers_count": 9261
+    },
+    {
+      "full_name": "poem-web/poem",
+      "size": 5449,
+      "stargazers_count": 3411
+    },
+    {
+      "full_name": "orf/gping",
+      "size": 5476,
+      "stargazers_count": 10588
+    },
+    {
+      "full_name": "ast-grep/ast-grep",
+      "size": 5656,
+      "stargazers_count": 6917
+    },
+    {
+      "full_name": "LaurentMazare/tch-rs",
+      "size": 5722,
+      "stargazers_count": 4129
+    },
+    {
+      "full_name": "ggez/ggez",
+      "size": 5782,
+      "stargazers_count": 4198
+    },
+    {
+      "full_name": "mozilla/sccache",
+      "size": 5860,
+      "stargazers_count": 5661
+    },
+    {
+      "full_name": "rust-lang/mdBook",
+      "size": 5918,
+      "stargazers_count": 17508
+    },
+    {
+      "full_name": "H-M-H/Weylus",
+      "size": 5952,
+      "stargazers_count": 6748
+    },
+    {
+      "full_name": "Rust-GPU/Rust-CUDA",
+      "size": 5987,
+      "stargazers_count": 3008
+    },
+    {
+      "full_name": "aya-rs/aya",
+      "size": 6025,
+      "stargazers_count": 2984
+    },
+    {
+      "full_name": "awslabs/mountpoint-s3",
+      "size": 6064,
+      "stargazers_count": 4362
+    },
+    {
+      "full_name": "citybound/citybound",
+      "size": 6187,
+      "stargazers_count": 7698
+    },
+    {
+      "full_name": "fastly/pushpin",
+      "size": 6252,
+      "stargazers_count": 3618
+    },
+    {
+      "full_name": "AmrDeveloper/GQL",
+      "size": 6362,
+      "stargazers_count": 3162
+    },
+    {
+      "full_name": "PistonDevelopers/conrod",
+      "size": 6458,
+      "stargazers_count": 3349
+    },
+    {
+      "full_name": "maestro-os/maestro",
+      "size": 6476,
+      "stargazers_count": 2858
+    },
+    {
+      "full_name": "cloudflare/wrangler-legacy",
+      "size": 6566,
+      "stargazers_count": 3208
+    },
+    {
+      "full_name": "paradedb/paradedb",
+      "size": 6606,
+      "stargazers_count": 5435
+    },
+    {
+      "full_name": "rustformers/llm",
+      "size": 6643,
+      "stargazers_count": 6059
+    },
+    {
+      "full_name": "PyO3/maturin",
+      "size": 6957,
+      "stargazers_count": 3601
+    },
+    {
+      "full_name": "rust-unofficial/awesome-rust",
+      "size": 6961,
+      "stargazers_count": 45302
+    },
+    {
+      "full_name": "racer-rust/racer",
+      "size": 6999,
+      "stargazers_count": 3355
+    },
+    {
+      "full_name": "rust-ndarray/ndarray",
+      "size": 7004,
+      "stargazers_count": 3479
+    },
+    {
+      "full_name": "dimforge/nalgebra",
+      "size": 7014,
+      "stargazers_count": 3898
+    },
+    {
+      "full_name": "shadowsocks/shadowsocks-rust",
+      "size": 7109,
+      "stargazers_count": 8214
+    },
+    {
+      "full_name": "dtolnay/cxx",
+      "size": 7474,
+      "stargazers_count": 5762
+    },
+    {
+      "full_name": "google/OpenSK",
+      "size": 7543,
+      "stargazers_count": 2962
+    },
+    {
+      "full_name": "glium/glium",
+      "size": 7612,
+      "stargazers_count": 3454
+    },
+    {
+      "full_name": "imazen/imageflow",
+      "size": 7720,
+      "stargazers_count": 4153
+    },
+    {
+      "full_name": "Aloxaf/silicon",
+      "size": 7721,
+      "stargazers_count": 3058
+    },
+    {
+      "full_name": "tokio-rs/console",
+      "size": 7745,
+      "stargazers_count": 3464
+    },
+    {
+      "full_name": "Qovery/Replibyte",
+      "size": 7859,
+      "stargazers_count": 4103
+    },
+    {
+      "full_name": "rust-lang/regex",
+      "size": 7870,
+      "stargazers_count": 3443
+    },
+    {
+      "full_name": "plotters-rs/plotters",
+      "size": 7877,
+      "stargazers_count": 3747
+    },
+    {
+      "full_name": "eza-community/eza",
+      "size": 7951,
+      "stargazers_count": 10554
+    },
+    {
+      "full_name": "godot-rust/gdnative",
+      "size": 7956,
+      "stargazers_count": 3608
+    },
+    {
+      "full_name": "serde-rs/serde",
+      "size": 8244,
+      "stargazers_count": 8929
+    },
+    {
+      "full_name": "launchbadge/sqlx",
+      "size": 8284,
+      "stargazers_count": 12747
+    },
+    {
+      "full_name": "rwf2/Rocket",
+      "size": 8316,
+      "stargazers_count": 24030
+    },
+    {
+      "full_name": "DvorakDwarf/Infinite-Storage-Glitch",
+      "size": 8353,
+      "stargazers_count": 11287
+    },
+    {
+      "full_name": "TimelyDataflow/timely-dataflow",
+      "size": 8453,
+      "stargazers_count": 3239
+    },
+    {
+      "full_name": "hatoo/oha",
+      "size": 8853,
+      "stargazers_count": 4712
+    },
+    {
+      "full_name": "servo/pathfinder",
+      "size": 9097,
+      "stargazers_count": 3577
+    },
+    {
+      "full_name": "tauri-apps/wry",
+      "size": 9255,
+      "stargazers_count": 3469
+    },
+    {
+      "full_name": "extism/extism",
+      "size": 9285,
+      "stargazers_count": 4092
+    },
+    {
+      "full_name": "0x192/universal-android-debloater",
+      "size": 9300,
+      "stargazers_count": 15041
+    },
+    {
+      "full_name": "sozu-proxy/sozu",
+      "size": 9344,
+      "stargazers_count": 2972
+    },
+    {
+      "full_name": "spacejam/sled",
+      "size": 9391,
+      "stargazers_count": 7982
+    },
+    {
+      "full_name": "rust-lang/rls",
+      "size": 9415,
+      "stargazers_count": 3514
+    },
+    {
+      "full_name": "sharkdp/pastel",
+      "size": 9529,
+      "stargazers_count": 5022
+    },
+    {
+      "full_name": "dani-garcia/vaultwarden",
+      "size": 9577,
+      "stargazers_count": 35968
+    },
+    {
+      "full_name": "linebender/druid",
+      "size": 9585,
+      "stargazers_count": 9475
+    },
+    {
+      "full_name": "nickel-org/nickel.rs",
+      "size": 9611,
+      "stargazers_count": 3039
+    },
+    {
+      "full_name": "xi-editor/xi-editor",
+      "size": 9704,
+      "stargazers_count": 19823
+    },
+    {
+      "full_name": "glzr-io/glazewm",
+      "size": 9718,
+      "stargazers_count": 4610
+    },
+    {
+      "full_name": "phiresky/ripgrep-all",
+      "size": 9762,
+      "stargazers_count": 6486
+    },
+    {
+      "full_name": "tokio-rs/tracing",
+      "size": 9772,
+      "stargazers_count": 5265
+    },
+    {
+      "full_name": "cozodb/cozo",
+      "size": 9773,
+      "stargazers_count": 3302
+    },
+    {
+      "full_name": "lalrpop/lalrpop",
+      "size": 9799,
+      "stargazers_count": 2986
+    },
+    {
+      "full_name": "quinn-rs/quinn",
+      "size": 9861,
+      "stargazers_count": 3673
+    },
+    {
+      "full_name": "awslabs/aws-lambda-rust-runtime",
+      "size": 10024,
+      "stargazers_count": 3282
+    },
+    {
+      "full_name": "huggingface/tokenizers",
+      "size": 10254,
+      "stargazers_count": 8815
+    },
+    {
+      "full_name": "Morganamilo/paru",
+      "size": 10280,
+      "stargazers_count": 5803
+    },
+    {
+      "full_name": "rust-lang/futures-rs",
+      "size": 10399,
+      "stargazers_count": 5333
+    },
+    {
+      "full_name": "signalapp/libsignal",
+      "size": 10409,
+      "stargazers_count": 3142
+    },
+    {
+      "full_name": "dandavison/delta",
+      "size": 10416,
+      "stargazers_count": 21661
+    },
+    {
+      "full_name": "parcel-bundler/lightningcss",
+      "size": 10419,
+      "stargazers_count": 6255
+    },
+    {
+      "full_name": "loro-dev/loro",
+      "size": 10456,
+      "stargazers_count": 3594
+    },
+    {
+      "full_name": "neon-bindings/neon",
+      "size": 10462,
+      "stargazers_count": 7964
+    },
+    {
+      "full_name": "sayanarijit/xplr",
+      "size": 10484,
+      "stargazers_count": 4101
+    },
+    {
+      "full_name": "supabase/pg_graphql",
+      "size": 10499,
+      "stargazers_count": 2849
+    },
+    {
+      "full_name": "RedisJSON/RedisJSON",
+      "size": 10526,
+      "stargazers_count": 3798
+    },
+    {
+      "full_name": "seed-rs/seed",
+      "size": 10637,
+      "stargazers_count": 3794
+    },
+    {
+      "full_name": "bytecodealliance/lucet",
+      "size": 10652,
+      "stargazers_count": 4065
+    },
+    {
+      "full_name": "rust-bakery/nom",
+      "size": 10733,
+      "stargazers_count": 9298
+    },
+    {
+      "full_name": "svenstaro/genact",
+      "size": 10740,
+      "stargazers_count": 9471
+    },
+    {
+      "full_name": "cantino/mcfly",
+      "size": 10841,
+      "stargazers_count": 6830
+    },
+    {
+      "full_name": "tellerops/teller",
+      "size": 10923,
+      "stargazers_count": 2793
+    },
+    {
+      "full_name": "kamiyaa/joshuto",
+      "size": 10926,
+      "stargazers_count": 3378
+    },
+    {
+      "full_name": "utilForever/game-developer-roadmap",
+      "size": 11039,
+      "stargazers_count": 5466
+    },
+    {
+      "full_name": "rust-windowing/winit",
+      "size": 11079,
+      "stargazers_count": 4647
+    },
+    {
+      "full_name": "dtolnay/syn",
+      "size": 11136,
+      "stargazers_count": 2787
+    },
+    {
+      "full_name": "huggingface/candle",
+      "size": 11188,
+      "stargazers_count": 14884
+    },
+    {
+      "full_name": "teloxide/teloxide",
+      "size": 11255,
+      "stargazers_count": 2970
+    },
+    {
+      "full_name": "rustls/rustls",
+      "size": 11348,
+      "stargazers_count": 5814
+    },
+    {
+      "full_name": "sunface/rust-course",
+      "size": 11446,
+      "stargazers_count": 24593
+    },
+    {
+      "full_name": "rust-lang/rustup",
+      "size": 11491,
+      "stargazers_count": 6073
+    },
+    {
+      "full_name": "casey/just",
+      "size": 11514,
+      "stargazers_count": 19258
+    },
+    {
+      "full_name": "bensadeh/tailspin",
+      "size": 11663,
+      "stargazers_count": 5767
+    },
+    {
+      "full_name": "not-fl3/macroquad",
+      "size": 12105,
+      "stargazers_count": 3142
+    },
+    {
+      "full_name": "clockworklabs/SpacetimeDB",
+      "size": 12297,
+      "stargazers_count": 4265
+    },
+    {
+      "full_name": "rcore-os/rCore",
+      "size": 12486,
+      "stargazers_count": 3400
+    },
+    {
+      "full_name": "indygreg/PyOxidizer",
+      "size": 12665,
+      "stargazers_count": 5350
+    },
+    {
+      "full_name": "gluon-lang/gluon",
+      "size": 12713,
+      "stargazers_count": 3177
+    },
+    {
+      "full_name": "loco-rs/loco",
+      "size": 12743,
+      "stargazers_count": 3773
+    },
+    {
+      "full_name": "leptos-rs/leptos",
+      "size": 13007,
+      "stargazers_count": 15607
+    },
+    {
+      "full_name": "async-graphql/async-graphql",
+      "size": 13179,
+      "stargazers_count": 3304
+    },
+    {
+      "full_name": "alacritty/alacritty",
+      "size": 13242,
+      "stargazers_count": 55246
+    },
+    {
+      "full_name": "webrtc-rs/webrtc",
+      "size": 13284,
+      "stargazers_count": 3999
+    },
+    {
+      "full_name": "hyperium/hyper",
+      "size": 13378,
+      "stargazers_count": 14241
+    },
+    {
+      "full_name": "rusqlite/rusqlite",
+      "size": 13569,
+      "stargazers_count": 2967
+    },
+    {
+      "full_name": "tokio-rs/tokio",
+      "size": 13627,
+      "stargazers_count": 26188
+    },
+    {
+      "full_name": "graphql-rust/juniper",
+      "size": 13775,
+      "stargazers_count": 5646
+    },
+    {
+      "full_name": "rhaiscript/rhai",
+      "size": 13907,
+      "stargazers_count": 3677
+    },
+    {
+      "full_name": "jdx/mise",
+      "size": 14128,
+      "stargazers_count": 8730
+    },
+    {
+      "full_name": "timvisee/ffsend",
+      "size": 14145,
+      "stargazers_count": 6901
+    },
+    {
+      "full_name": "ReagentX/imessage-exporter",
+      "size": 14207,
+      "stargazers_count": 2805
+    },
+    {
+      "full_name": "RustScan/RustScan",
+      "size": 14229,
+      "stargazers_count": 13900
+    },
+    {
+      "full_name": "GetFirefly/firefly",
+      "size": 14293,
+      "stargazers_count": 3602
+    },
+    {
+      "full_name": "orhun/git-cliff",
+      "size": 14533,
+      "stargazers_count": 8528
+    },
+    {
+      "full_name": "ArroyoSystems/arroyo",
+      "size": 14589,
+      "stargazers_count": 3538
+    },
+    {
+      "full_name": "SeaQL/sea-orm",
+      "size": 14604,
+      "stargazers_count": 6819
+    },
+    {
+      "full_name": "actix/actix-web",
+      "size": 14674,
+      "stargazers_count": 21046
+    },
+    {
+      "full_name": "rust-lang/rustfmt",
+      "size": 14793,
+      "stargazers_count": 5927
+    },
+    {
+      "full_name": "greenbone/openvas-scanner",
+      "size": 14879,
+      "stargazers_count": 3174
+    },
+    {
+      "full_name": "coral-xyz/anchor",
+      "size": 15015,
+      "stargazers_count": 3470
+    },
+    {
+      "full_name": "leftwm/leftwm",
+      "size": 15074,
+      "stargazers_count": 2818
+    },
+    {
+      "full_name": "bottlerocket-os/bottlerocket",
+      "size": 15742,
+      "stargazers_count": 8518
+    },
+    {
+      "full_name": "dudykr/stc",
+      "size": 15937,
+      "stargazers_count": 5755
+    },
+    {
+      "full_name": "embassy-rs/embassy",
+      "size": 15975,
+      "stargazers_count": 5038
+    },
+    {
+      "full_name": "FuelLabs/fuels-rs",
+      "size": 15996,
+      "stargazers_count": 44315
+    },
+    {
+      "full_name": "gleam-lang/gleam",
+      "size": 16011,
+      "stargazers_count": 17110
+    },
+    {
+      "full_name": "stalwartlabs/mail-server",
+      "size": 16076,
+      "stargazers_count": 4075
+    },
+    {
+      "full_name": "salvo-rs/salvo",
+      "size": 16495,
+      "stargazers_count": 3036
+    },
+    {
+      "full_name": "hickory-dns/hickory-dns",
+      "size": 16648,
+      "stargazers_count": 3933
+    },
+    {
+      "full_name": "actix/actix",
+      "size": 16885,
+      "stargazers_count": 8528
+    },
+    {
+      "full_name": "redox-os/orbtk",
+      "size": 17065,
+      "stargazers_count": 3769
+    },
+    {
+      "full_name": "Canop/broot",
+      "size": 17138,
+      "stargazers_count": 10448
+    },
+    {
+      "full_name": "google/magika",
+      "size": 17405,
+      "stargazers_count": 7656
+    },
+    {
+      "full_name": "iced-rs/iced",
+      "size": 17596,
+      "stargazers_count": 23877
+    },
+    {
+      "full_name": "lancedb/lance",
+      "size": 17700,
+      "stargazers_count": 3707
+    },
+    {
+      "full_name": "rust-lang/rust-bindgen",
+      "size": 17744,
+      "stargazers_count": 4313
+    },
+    {
+      "full_name": "rust-lang/miri",
+      "size": 18326,
+      "stargazers_count": 4261
+    },
+    {
+      "full_name": "fujiapple852/trippy",
+      "size": 18366,
+      "stargazers_count": 3384
+    },
+    {
+      "full_name": "libp2p/rust-libp2p",
+      "size": 18510,
+      "stargazers_count": 4417
+    },
+    {
+      "full_name": "fschutt/azul",
+      "size": 18664,
+      "stargazers_count": 5870
+    },
+    {
+      "full_name": "erebe/wstunnel",
+      "size": 18722,
+      "stargazers_count": 4012
+    },
+    {
+      "full_name": "tree-sitter/tree-sitter",
+      "size": 19249,
+      "stargazers_count": 17691
+    },
+    {
+      "full_name": "sachaos/viddy",
+      "size": 19469,
+      "stargazers_count": 4589
+    },
+    {
+      "full_name": "LibNyanpasu/clash-nyanpasu",
+      "size": 19552,
+      "stargazers_count": 7988
+    },
+    {
+      "full_name": "cloudflare/quiche",
+      "size": 19558,
+      "stargazers_count": 9222
+    },
+    {
+      "full_name": "clap-rs/clap",
+      "size": 19585,
+      "stargazers_count": 13889
+    },
+    {
+      "full_name": "MaxBittker/sandspiel",
+      "size": 20354,
+      "stargazers_count": 2958
+    },
+    {
+      "full_name": "rust-embedded/rust-raspberrypi-OS-tutorials",
+      "size": 21234,
+      "stargazers_count": 13390
+    },
+    {
+      "full_name": "mimblewimble/grin",
+      "size": 21360,
+      "stargazers_count": 5036
+    },
+    {
+      "full_name": "google/comprehensive-rust",
+      "size": 21519,
+      "stargazers_count": 27159
+    },
+    {
+      "full_name": "rolldown/rolldown",
+      "size": 21614,
+      "stargazers_count": 7712
+    },
+    {
+      "full_name": "PRQL/prql",
+      "size": 21900,
+      "stargazers_count": 9715
+    },
+    {
+      "full_name": "rustwasm/wasm-bindgen",
+      "size": 22613,
+      "stargazers_count": 7564
+    },
+    {
+      "full_name": "epi052/feroxbuster",
+      "size": 23204,
+      "stargazers_count": 5697
+    },
+    {
+      "full_name": "containers/youki",
+      "size": 24022,
+      "stargazers_count": 6088
+    },
+    {
+      "full_name": "image-rs/image",
+      "size": 24269,
+      "stargazers_count": 4826
+    },
+    {
+      "full_name": "qdrant/qdrant",
+      "size": 24525,
+      "stargazers_count": 19484
+    },
+    {
+      "full_name": "infinyon/fluvio",
+      "size": 25097,
+      "stargazers_count": 2860
+    },
+    {
+      "full_name": "cloud-hypervisor/cloud-hypervisor",
+      "size": 25774,
+      "stargazers_count": 3824
+    },
+    {
+      "full_name": "killercup/cargo-edit",
+      "size": 26015,
+      "stargazers_count": 3032
+    },
+    {
+      "full_name": "metalbear-co/mirrord",
+      "size": 26036,
+      "stargazers_count": 3688
+    },
+    {
+      "full_name": "uutils/coreutils",
+      "size": 26275,
+      "stargazers_count": 17443
+    },
+    {
+      "full_name": "martinvonz/jj",
+      "size": 26697,
+      "stargazers_count": 7824
+    },
+    {
+      "full_name": "surrealdb/surrealdb",
+      "size": 26864,
+      "stargazers_count": 26473
+    },
+    {
+      "full_name": "gfx-rs/gfx",
+      "size": 26990,
+      "stargazers_count": 5347
+    },
+    {
+      "full_name": "o2sh/onefetch",
+      "size": 27518,
+      "stargazers_count": 9579
+    },
+    {
+      "full_name": "farm-fe/farm",
+      "size": 27576,
+      "stargazers_count": 4706
+    },
+    {
+      "full_name": "lapce/lapce",
+      "size": 28026,
+      "stargazers_count": 34081
+    },
+    {
+      "full_name": "misprit7/computerraria",
+      "size": 28956,
+      "stargazers_count": 3341
+    },
+    {
+      "full_name": "fermyon/spin",
+      "size": 29301,
+      "stargazers_count": 5095
+    },
+    {
+      "full_name": "GraphiteEditor/Graphite",
+      "size": 29822,
+      "stargazers_count": 7554
+    },
+    {
+      "full_name": "pgcentralfoundation/pgrx",
+      "size": 30247,
+      "stargazers_count": 3495
+    },
+    {
+      "full_name": "crossterm-rs/crossterm",
+      "size": 30290,
+      "stargazers_count": 3135
+    },
+    {
+      "full_name": "tensorflow/rust",
+      "size": 30472,
+      "stargazers_count": 5112
+    },
+    {
+      "full_name": "vulkano-rs/vulkano",
+      "size": 30483,
+      "stargazers_count": 4443
+    },
+    {
+      "full_name": "firecracker-microvm/firecracker",
+      "size": 30834,
+      "stargazers_count": 24904
+    },
+    {
+      "full_name": "sharkdp/bat",
+      "size": 31210,
+      "stargazers_count": 48334
+    },
+    {
+      "full_name": "lencx/ChatGPT",
+      "size": 32565,
+      "stargazers_count": 51969
+    },
+    {
+      "full_name": "nannou-org/nannou",
+      "size": 33115,
+      "stargazers_count": 5939
+    },
+    {
+      "full_name": "napi-rs/napi-rs",
+      "size": 34158,
+      "stargazers_count": 5791
+    },
+    {
+      "full_name": "LemmyNet/lemmy",
+      "size": 34836,
+      "stargazers_count": 13061
+    },
+    {
+      "full_name": "visioncortex/vtracer",
+      "size": 35269,
+      "stargazers_count": 3060
+    },
+    {
+      "full_name": "Findomain/Findomain",
+      "size": 35274,
+      "stargazers_count": 3245
+    },
+    {
+      "full_name": "oxidecomputer/hubris",
+      "size": 35342,
+      "stargazers_count": 2918
+    },
+    {
+      "full_name": "slint-ui/slint",
+      "size": 35712,
+      "stargazers_count": 16586
+    },
+    {
+      "full_name": "PyO3/pyo3",
+      "size": 35726,
+      "stargazers_count": 11759
+    },
+    {
+      "full_name": "gitbutlerapp/gitbutler",
+      "size": 36519,
+      "stargazers_count": 12186
+    },
+    {
+      "full_name": "DioxusLabs/dioxus",
+      "size": 36677,
+      "stargazers_count": 19880
+    },
+    {
+      "full_name": "astral-sh/uv",
+      "size": 38700,
+      "stargazers_count": 16013
+    },
+    {
+      "full_name": "starship/starship",
+      "size": 40430,
+      "stargazers_count": 43817
+    },
+    {
+      "full_name": "krustlet/krustlet",
+      "size": 41593,
+      "stargazers_count": 3549
+    },
+    {
+      "full_name": "GreptimeTeam/greptimedb",
+      "size": 41828,
+      "stargazers_count": 4115
+    },
+    {
+      "full_name": "EricLBuehler/mistral.rs",
+      "size": 42120,
+      "stargazers_count": 3253
+    },
+    {
+      "full_name": "alvr-org/ALVR",
+      "size": 42127,
+      "stargazers_count": 5157
+    },
+    {
+      "full_name": "foundry-rs/foundry",
+      "size": 42128,
+      "stargazers_count": 8018
+    },
+    {
+      "full_name": "analysis-tools-dev/static-analysis",
+      "size": 42188,
+      "stargazers_count": 13127
+    },
+    {
+      "full_name": "helix-editor/helix",
+      "size": 42268,
+      "stargazers_count": 32232
+    },
+    {
+      "full_name": "espanso/espanso",
+      "size": 42422,
+      "stargazers_count": 9657
+    },
+    {
+      "full_name": "ankitects/anki",
+      "size": 43009,
+      "stargazers_count": 18098
+    },
+    {
+      "full_name": "tw93/Pake",
+      "size": 44111,
+      "stargazers_count": 25188
+    },
+    {
+      "full_name": "dprint/dprint",
+      "size": 44822,
+      "stargazers_count": 3110
+    },
+    {
+      "full_name": "autozimu/LanguageClient-neovim",
+      "size": 45491,
+      "stargazers_count": 3545
+    },
+    {
+      "full_name": "greshake/i3status-rust",
+      "size": 46419,
+      "stargazers_count": 2835
+    },
+    {
+      "full_name": "atuinsh/atuin",
+      "size": 46636,
+      "stargazers_count": 19478
+    },
+    {
+      "full_name": "web-infra-dev/rspack",
+      "size": 47227,
+      "stargazers_count": 8515
+    },
+    {
+      "full_name": "nushell/nushell",
+      "size": 47405,
+      "stargazers_count": 31308
+    },
+    {
+      "full_name": "getgrit/gritql",
+      "size": 48703,
+      "stargazers_count": 2871
+    },
+    {
+      "full_name": "boa-dev/boa",
+      "size": 49041,
+      "stargazers_count": 4956
+    },
+    {
+      "full_name": "neondatabase/neon",
+      "size": 51430,
+      "stargazers_count": 14024
+    },
+    {
+      "full_name": "rustdesk/rustdesk",
+      "size": 52008,
+      "stargazers_count": 70629
+    },
+    {
+      "full_name": "astral-sh/ruff",
+      "size": 52017,
+      "stargazers_count": 29942
+    },
+    {
+      "full_name": "tracel-ai/burn",
+      "size": 52201,
+      "stargazers_count": 8125
+    },
+    {
+      "full_name": "rust-lang/crates.io",
+      "size": 52317,
+      "stargazers_count": 2896
+    },
+    {
+      "full_name": "rust-lang/book",
+      "size": 52698,
+      "stargazers_count": 14771
+    },
+    {
+      "full_name": "openobserve/openobserve",
+      "size": 52718,
+      "stargazers_count": 10626
+    },
+    {
+      "full_name": "shssoichiro/oxipng",
+      "size": 52863,
+      "stargazers_count": 2792
+    },
+    {
+      "full_name": "quickwit-oss/quickwit",
+      "size": 52893,
+      "stargazers_count": 7576
+    },
+    {
+      "full_name": "rust-lang/cargo",
+      "size": 53459,
+      "stargazers_count": 12462
+    },
+    {
+      "full_name": "stepancheg/rust-protobuf",
+      "size": 55324,
+      "stargazers_count": 2749
+    },
+    {
+      "full_name": "gfx-rs/wgpu",
+      "size": 55497,
+      "stargazers_count": 11971
+    },
+    {
+      "full_name": "juspay/hyperswitch",
+      "size": 56917,
+      "stargazers_count": 11268
+    },
+    {
+      "full_name": "tokio-rs/prost",
+      "size": 57043,
+      "stargazers_count": 3735
+    },
+    {
+      "full_name": "TabbyML/tabby",
+      "size": 59230,
+      "stargazers_count": 20683
+    },
+    {
+      "full_name": "amethyst/amethyst",
+      "size": 59298,
+      "stargazers_count": 7985
+    },
+    {
+      "full_name": "rust-lang/rust-clippy",
+      "size": 59456,
+      "stargazers_count": 11185
+    },
+    {
+      "full_name": "paradigmxyz/reth",
+      "size": 60501,
+      "stargazers_count": 3686
+    },
+    {
+      "full_name": "meilisearch/meilisearch",
+      "size": 61273,
+      "stargazers_count": 45948
+    },
+    {
+      "full_name": "Byron/gitoxide",
+      "size": 61380,
+      "stargazers_count": 8618
+    },
+    {
+      "full_name": "quickwit-oss/tantivy",
+      "size": 62867,
+      "stargazers_count": 11543
+    },
+    {
+      "full_name": "extrawurst/gitui",
+      "size": 63637,
+      "stargazers_count": 18034
+    },
+    {
+      "full_name": "spieglt/FlyingCarpet",
+      "size": 63676,
+      "stargazers_count": 3362
+    },
+    {
+      "full_name": "artichoke/artichoke",
+      "size": 63719,
+      "stargazers_count": 3028
+    },
+    {
+      "full_name": "volta-cli/volta",
+      "size": 67175,
+      "stargazers_count": 10681
+    },
+    {
+      "full_name": "RustPython/RustPython",
+      "size": 67756,
+      "stargazers_count": 18565
+    },
+    {
+      "full_name": "diesel-rs/diesel",
+      "size": 67760,
+      "stargazers_count": 12404
+    },
+    {
+      "full_name": "gyroflow/gyroflow",
+      "size": 70773,
+      "stargazers_count": 6456
+    },
+    {
+      "full_name": "shuttle-hq/shuttle",
+      "size": 71205,
+      "stargazers_count": 5889
+    },
+    {
+      "full_name": "ClementTsang/bottom",
+      "size": 71732,
+      "stargazers_count": 9599
+    },
+    {
+      "full_name": "kata-containers/kata-containers",
+      "size": 74037,
+      "stargazers_count": 5255
+    },
+    {
+      "full_name": "HigherOrderCO/Bend",
+      "size": 74389,
+      "stargazers_count": 17057
+    },
+    {
+      "full_name": "rust-lang/rust-analyzer",
+      "size": 76880,
+      "stargazers_count": 13976
+    },
+    {
+      "full_name": "fish-shell/fish-shell",
+      "size": 77051,
+      "stargazers_count": 25422
+    },
+    {
+      "full_name": "getzola/zola",
+      "size": 78058,
+      "stargazers_count": 13265
+    },
+    {
+      "full_name": "servo/webrender",
+      "size": 78373,
+      "stargazers_count": 3088
+    },
+    {
+      "full_name": "TaKO8Ki/gobang",
+      "size": 79198,
+      "stargazers_count": 2799
+    },
+    {
+      "full_name": "BloopAI/bloop",
+      "size": 79600,
+      "stargazers_count": 9367
+    },
+    {
+      "full_name": "openethereum/parity-ethereum",
+      "size": 80203,
+      "stargazers_count": 6812
+    },
+    {
+      "full_name": "FuelLabs/sway",
+      "size": 80813,
+      "stargazers_count": 62848
+    },
+    {
+      "full_name": "immunant/c2rust",
+      "size": 81348,
+      "stargazers_count": 3865
+    },
+    {
+      "full_name": "emilk/egui",
+      "size": 81565,
+      "stargazers_count": 21289
+    },
+    {
+      "full_name": "hyperium/tonic",
+      "size": 81798,
+      "stargazers_count": 9557
+    },
+    {
+      "full_name": "neovide/neovide",
+      "size": 81825,
+      "stargazers_count": 12567
+    },
+    {
+      "full_name": "Dusk-Labs/dim",
+      "size": 82146,
+      "stargazers_count": 3755
+    },
+    {
+      "full_name": "build-trust/ockam",
+      "size": 84055,
+      "stargazers_count": 4416
+    },
+    {
+      "full_name": "icedland/iced",
+      "size": 84177,
+      "stargazers_count": 2845
+    },
+    {
+      "full_name": "mit-pdos/noria",
+      "size": 84487,
+      "stargazers_count": 4977
+    },
+    {
+      "full_name": "tauri-apps/tauri",
+      "size": 89083,
+      "stargazers_count": 80971
+    },
+    {
+      "full_name": "solana-labs/solana-program-library",
+      "size": 89152,
+      "stargazers_count": 3371
+    },
+    {
+      "full_name": "zellij-org/zellij",
+      "size": 94718,
+      "stargazers_count": 20146
+    },
+    {
+      "full_name": "raphamorim/rio",
+      "size": 95176,
+      "stargazers_count": 3344
+    },
+    {
+      "full_name": "ratatui-org/ratatui",
+      "size": 95460,
+      "stargazers_count": 9394
+    },
+    {
+      "full_name": "petgraph/petgraph",
+      "size": 99177,
+      "stargazers_count": 2812
+    },
+    {
+      "full_name": "chyyuu/os_kernel_lab",
+      "size": 99196,
+      "stargazers_count": 3938
+    },
+    {
+      "full_name": "bytecodealliance/wasmtime",
+      "size": 104451,
+      "stargazers_count": 14979
+    },
+    {
+      "full_name": "matter-labs/zksync-era",
+      "size": 108400,
+      "stargazers_count": 3070
+    },
+    {
+      "full_name": "osohq/oso",
+      "size": 109107,
+      "stargazers_count": 3465
+    },
+    {
+      "full_name": "tikv/tikv",
+      "size": 109210,
+      "stargazers_count": 14897
+    },
+    {
+      "full_name": "bevyengine/bevy",
+      "size": 109223,
+      "stargazers_count": 34709
+    },
+    {
+      "full_name": "facebook/buck2",
+      "size": 112899,
+      "stargazers_count": 3464
+    },
+    {
+      "full_name": "zed-industries/zed",
+      "size": 113902,
+      "stargazers_count": 43989
+    },
+    {
+      "full_name": "vectordotdev/vector",
+      "size": 115088,
+      "stargazers_count": 17281
+    },
+    {
+      "full_name": "apache/datafusion",
+      "size": 116635,
+      "stargazers_count": 5771
+    },
+    {
+      "full_name": "diem/diem",
+      "size": 124617,
+      "stargazers_count": 16701
+    },
+    {
+      "full_name": "typst/typst",
+      "size": 126231,
+      "stargazers_count": 32097
+    },
+    {
+      "full_name": "sigp/lighthouse",
+      "size": 129975,
+      "stargazers_count": 2860
+    },
+    {
+      "full_name": "EmbarkStudios/kajiya",
+      "size": 133993,
+      "stargazers_count": 4731
+    },
+    {
+      "full_name": "theseus-os/Theseus",
+      "size": 135627,
+      "stargazers_count": 2832
+    },
+    {
+      "full_name": "denoland/deno",
+      "size": 138009,
+      "stargazers_count": 93703
+    },
+    {
+      "full_name": "stacks-network/stacks-core",
+      "size": 143305,
+      "stargazers_count": 3007
+    },
+    {
+      "full_name": "ruffle-rs/ruffle",
+      "size": 144399,
+      "stargazers_count": 15318
+    },
+    {
+      "full_name": "rome/tools",
+      "size": 144961,
+      "stargazers_count": 23773
+    },
+    {
+      "full_name": "pola-rs/polars",
+      "size": 146331,
+      "stargazers_count": 28672
+    },
+    {
+      "full_name": "roc-lang/roc",
+      "size": 152780,
+      "stargazers_count": 3970
+    },
+    {
+      "full_name": "ProvableHQ/leo",
+      "size": 155110,
+      "stargazers_count": 4789
+    },
+    {
+      "full_name": "mullvad/mullvadvpn-app",
+      "size": 162399,
+      "stargazers_count": 4755
+    },
+    {
+      "full_name": "kitao/pyxel",
+      "size": 164974,
+      "stargazers_count": 14437
+    },
+    {
+      "full_name": "tock/tock",
+      "size": 174079,
+      "stargazers_count": 5305
+    },
+    {
+      "full_name": "FuelLabs/fuel-core",
+      "size": 183288,
+      "stargazers_count": 58224
+    },
+    {
+      "full_name": "paritytech/polkadot",
+      "size": 193724,
+      "stargazers_count": 7129
+    },
+    {
+      "full_name": "influxdata/influxdb",
+      "size": 196136,
+      "stargazers_count": 28448
+    },
+    {
+      "full_name": "biomejs/biome",
+      "size": 202022,
+      "stargazers_count": 13439
+    },
+    {
+      "full_name": "ordinals/ord",
+      "size": 204585,
+      "stargazers_count": 3775
+    },
+    {
+      "full_name": "GyulyVGC/sniffnet",
+      "size": 205901,
+      "stargazers_count": 17100
+    },
+    {
+      "full_name": "risingwavelabs/risingwave",
+      "size": 211236,
+      "stargazers_count": 6706
+    },
+    {
+      "full_name": "MaterializeInc/materialize",
+      "size": 212224,
+      "stargazers_count": 5700
+    },
+    {
+      "full_name": "Orange-OpenSource/hurl",
+      "size": 215714,
+      "stargazers_count": 12476
+    },
+    {
+      "full_name": "readysettech/readyset",
+      "size": 234845,
+      "stargazers_count": 4196
+    },
+    {
+      "full_name": "EmbarkStudios/rust-gpu",
+      "size": 258410,
+      "stargazers_count": 7225
+    },
+    {
+      "full_name": "flxzt/rnote",
+      "size": 266520,
+      "stargazers_count": 6636
+    },
+    {
+      "full_name": "moonrepo/moon",
+      "size": 271290,
+      "stargazers_count": 2776
+    },
+    {
+      "full_name": "paritytech/substrate",
+      "size": 272000,
+      "stargazers_count": 8384
+    },
+    {
+      "full_name": "datafuselabs/databend",
+      "size": 277189,
+      "stargazers_count": 7576
+    },
+    {
+      "full_name": "facebook/sapling",
+      "size": 282487,
+      "stargazers_count": 5993
+    },
+    {
+      "full_name": "apache/opendal",
+      "size": 301253,
+      "stargazers_count": 3159
+    },
+    {
+      "full_name": "wez/wezterm",
+      "size": 304552,
+      "stargazers_count": 16149
+    },
+    {
+      "full_name": "cube-js/cube",
+      "size": 308390,
+      "stargazers_count": 17616
+    },
+    {
+      "full_name": "massalabs/massa",
+      "size": 315186,
+      "stargazers_count": 5572
+    },
+    {
+      "full_name": "MystenLabs/sui",
+      "size": 316600,
+      "stargazers_count": 5947
+    },
+    {
+      "full_name": "chroma-core/chroma",
+      "size": 328932,
+      "stargazers_count": 14142
+    },
+    {
+      "full_name": "graphprotocol/graph-node",
+      "size": 332883,
+      "stargazers_count": 2878
+    },
+    {
+      "full_name": "rerun-io/rerun",
+      "size": 335393,
+      "stargazers_count": 5978
+    },
+    {
+      "full_name": "swc-project/swc",
+      "size": 347020,
+      "stargazers_count": 30826
+    },
+    {
+      "full_name": "aptos-labs/aptos-core",
+      "size": 368731,
+      "stargazers_count": 5985
+    },
+    {
+      "full_name": "FyroxEngine/Fyrox",
+      "size": 380038,
+      "stargazers_count": 7577
+    },
+    {
+      "full_name": "matter-labs/zksync",
+      "size": 383690,
+      "stargazers_count": 4874
+    },
+    {
+      "full_name": "oxc-project/oxc",
+      "size": 384216,
+      "stargazers_count": 10309
+    },
+    {
+      "full_name": "a-b-street/abstreet",
+      "size": 395403,
+      "stargazers_count": 7442
+    },
+    {
+      "full_name": "AmbientRun/Ambient",
+      "size": 401148,
+      "stargazers_count": 3768
+    },
+    {
+      "full_name": "serenity-rs/serenity",
+      "size": 409344,
+      "stargazers_count": 4638
+    },
+    {
+      "full_name": "postgresml/postgresml",
+      "size": 442791,
+      "stargazers_count": 5840
+    },
+    {
+      "full_name": "solana-labs/solana",
+      "size": 445101,
+      "stargazers_count": 12863
+    },
+    {
+      "full_name": "AleoNet/snarkOS",
+      "size": 661862,
+      "stargazers_count": 4250
+    },
+    {
+      "full_name": "vercel/turborepo",
+      "size": 730620,
+      "stargazers_count": 25806
+    },
+    {
+      "full_name": "wasmerio/wasmer",
+      "size": 851830,
+      "stargazers_count": 18365
+    },
+    {
+      "full_name": "crablang/crab",
+      "size": 947604,
+      "stargazers_count": 5117
+    },
+    {
+      "full_name": "microsoft/windows-rs",
+      "size": 1046643,
+      "stargazers_count": 10218
+    },
+    {
+      "full_name": "veloren/veloren",
+      "size": 1098244,
+      "stargazers_count": 5672
+    },
+    {
+      "full_name": "rust-lang/rust",
+      "size": 1335251,
+      "stargazers_count": 96067
+    },
+    {
+      "full_name": "servo/servo",
+      "size": 1381896,
+      "stargazers_count": 27508
+    },
+    {
+      "full_name": "EvilGenius-dot/RustMinerSystem",
+      "size": 1645925,
+      "stargazers_count": 4389
+    },
+    {
+      "full_name": "Wilfred/difftastic",
+      "size": 1690319,
+      "stargazers_count": 20296
+    },
+    {
+      "full_name": "awslabs/aws-sdk-rust",
+      "size": 2250801,
+      "stargazers_count": 2946
+    },
+    {
+      "full_name": "facebook/relay",
+      "size": 6485323,
+      "stargazers_count": 18325
+    }
+  ]
+}
